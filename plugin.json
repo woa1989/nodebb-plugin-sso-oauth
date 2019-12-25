@@ -2,7 +2,7 @@
 	"id": "nodebb-plugin-sso-presen",
 	"name": "nodebb-plugin-sso-presen",
 	"description": "NodeBB presen sso",
-	"url": "https://github.com/julianlam/nodebb-plugin-sso-oauth",
+	"url": "git@github.com:woa1989/nodebb-plugin-sso-oauth.git",
 	"library": "./library.js",
 	"hooks": [{
 			"hook": "static:app.load",
